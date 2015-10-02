@@ -1,14 +1,5 @@
 package org.jmetano.verificacao;
 
-/*
- * Copyright (c) Banco Central do Brasil.
- *
- * Este software � confidencial e propriedade do Banco Central do Brasil.
- * N�o � permitida sua distribui��o ou divulga��o do seu conte�do sem
- * expressa autoriza��o do Banco Central.
- * Este arquivo cont�m informa��es propriet�rias.
- */
-
 import org.jmetano.parametrizacao.ParametroUtil;
 import org.junit.Assert;
 
